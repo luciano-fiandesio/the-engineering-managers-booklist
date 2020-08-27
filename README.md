@@ -63,11 +63,11 @@ soft skills, then I would recommend picking out some books in the tech skills se
 
 #### Management
 
-[Building Great Software Engineering Teams](https://amzn.to/2IDypCz) by Joshua Tyler [📘](https://amzn.to/2IDypCz)  
-[The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://amzn.to/2DgqkQM)  
-[The Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) by Julie Zhuo [📘](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) [🎧](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/B07NGSZGFG/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)  
-[Death by Meeting](https://amzn.to/2XgIWaX) by Patrick M. Lencioni [📘](https://amzn.to/2XgIWaX) [🎧](https://amzn.to/2DfZV5S)  
-[High Output Management](https://amzn.to/2XfMSJ5) by Andrew S. Grove [📘](https://amzn.to/2XfMSJ5)  
+[Building Great Software Engineering Teams](https://amzn.to/2IDypCz) by Joshua Tyler [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2CF6LGADCU0JBXy?e=1q3e2s)
+[The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2EQIynB64qqrkUo?e=aoSlyb)  
+[The Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) by Julie Zhuo [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2KtmDEswV261MJx?e=v750hB)
+[Death by Meeting](https://amzn.to/2XgIWaX) by Patrick M. Lencioni [📘](https://1drv.ms/b/s!AsCshoFzyVm_i2MkT9ukNl8XKCBF?e=n1wNpL)
+[High Output Management](https://amzn.to/2XfMSJ5) by Andrew S. Grove [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2TxQENhyr582pDx?e=aVQjr9)  
 [Managing Humans](https://amzn.to/2IoAx1S) by Michael Lopp [📘](https://amzn.to/2IoAx1S)  
 [Managing Oneself](https://amzn.to/2XiFtZK) by Peter Drucker [📘](https://amzn.to/2XiFtZK) [🎧](https://amzn.to/2GtJa9n)  
 [The ONE Thing](https://amzn.to/2Xl0F1g) by Gary Keller and Jay Papasan [📘](https://amzn.to/2Xl0F1g) [🎧](https://amzn.to/2XgmJKj)  

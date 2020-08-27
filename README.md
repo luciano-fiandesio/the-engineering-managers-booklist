@@ -68,7 +68,7 @@ soft skills, then I would recommend picking out some books in the tech skills se
 [The Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) by Julie Zhuo [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2KtmDEswV261MJx?e=v750hB)  
 [Death by Meeting](https://amzn.to/2XgIWaX) by Patrick M. Lencioni [📘](https://1drv.ms/b/s!AsCshoFzyVm_i2MkT9ukNl8XKCBF?e=n1wNpL)  
 [High Output Management](https://amzn.to/2XfMSJ5) by Andrew S. Grove [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2TxQENhyr582pDx?e=aVQjr9)  
-[Managing Humans](https://amzn.to/2IoAx1S) by Michael Lopp [📘](https://amzn.to/2IoAx1S)  
+[Managing Humans](https://amzn.to/2IoAx1S) by Michael Lopp [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2WGEpjXkGARcG1E?e=ga9vTa)  
 [Managing Oneself](https://amzn.to/2XiFtZK) by Peter Drucker [📘](https://amzn.to/2XiFtZK) [🎧](https://amzn.to/2GtJa9n)  
 [The ONE Thing](https://amzn.to/2Xl0F1g) by Gary Keller and Jay Papasan [📘](https://amzn.to/2Xl0F1g) [🎧](https://amzn.to/2XgmJKj)  
 [Radical Focus](https://amzn.to/2DhZLee) by Christina Wodtke [📘](https://amzn.to/2DhZLee) [🎧](https://amzn.to/2DeYSD6)  

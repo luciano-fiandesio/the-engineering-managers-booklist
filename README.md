@@ -71,7 +71,7 @@ soft skills, then I would recommend picking out some books in the tech skills se
 [Managing Humans](https://amzn.to/2IoAx1S) by Michael Lopp [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2WGEpjXkGARcG1E?e=ga9vTa)  
 [Managing Oneself](https://amzn.to/2XiFtZK) by Peter Drucker [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2bTmQt4POQledC_?e=hDfCUa)  
 [The ONE Thing](https://amzn.to/2Xl0F1g) by Gary Keller and Jay Papasan [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2ce9LIewwP-3d8j?e=1a8sws)  
-[Radical Focus](https://amzn.to/2DhZLee) by Christina Wodtke [📘](https://amzn.to/2DhZLee)  
+[Radical Focus](https://amzn.to/2DhZLee) by Christina Wodtke [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2hoEoiMiiflT5ID?e=dwUVAz)  
 [The Advantage](https://amzn.to/2DbTOiX) by Patrick Lencioni [📘](https://amzn.to/2DbTOiX)  
 [Management 3.0](https://amzn.to/2GuQXnr) by Jurgen Appelo [📘](https://amzn.to/2GuQXnr)  
 [Growing Software](https://amzn.to/2DhtyDD) by Louis Testa [📘](https://amzn.to/2DhtyDD)  

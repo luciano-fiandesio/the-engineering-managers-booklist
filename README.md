@@ -77,10 +77,10 @@ soft skills, then I would recommend picking out some books in the tech skills se
 [Growing Software](https://amzn.to/2DhtyDD) by Louis Testa [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2vjS4Kn3mTuH46R?e=0jFzac)  
 [Principles of Software Engineering Management](https://amzn.to/2GqXj6W) by Tom Glib [📘](https://amzn.to/2GqXj6W)  
 [The Goal](https://amzn.to/2DjQthG) by Eliyahu M. Goldratt and Jeff Cox [📘](https://1drv.ms/u/s!AsCshoFzyVm_i22NGNXMpJXxBZV7?e=PjPBxS) [📗](https://1drv.ms/b/s!AsCshoFzyVm_i2xm9LeTjN1nSj2L?e=705tYP)  
-[Managing the Unmanageable](https://amzn.to/2DhLBK9) by Mickey W. Mantle and Ron Lichty [📘](https://amzn.to/2DhLBK9)  
-[Behind Closed Doors](https://amzn.to/2Io85gL) by Johanna Rothman and Esther Derby [📘](https://amzn.to/2Io85gL)  
-[An Elegant Puzzle - Systems of Engineering Management](https://www.amazon.com/dp/1732265186) by Will Larson [📘](https://www.amazon.com/dp/1732265186)   
-[97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should/dp/1492050903) by Camille Fournier [📘](https://www.amazon.com/Things-Every-Engineering-Manager-Should/dp/1492050903)  
+[Managing the Unmanageable](https://amzn.to/2DhLBK9) by Mickey W. Mantle and Ron Lichty [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2-uVWLyg-doouXM?e=Mx4J9e) [📗](https://1drv.ms/u/s!AsCshoFzyVm_i3BZQhXCaNB1NOyB?e=ZesoIM) [🚧](https://1drv.ms/u/s!AsCshoFzyVm_i3BZQhXCaNB1NOyB?e=gA3QYT)  
+[Behind Closed Doors](https://amzn.to/2Io85gL) by Johanna Rothman and Esther Derby [📗](https://1drv.ms/b/s!AsCshoFzyVm_i3HHUfxkx22edaH-?e=dVjX74)  
+[An Elegant Puzzle - Systems of Engineering Management](https://www.amazon.com/dp/1732265186) by Will Larson [📘](https://1drv.ms/u/s!AsCshoFzyVm_i3JejC3CbV6mIYTF?e=SC4hHa)   
+[97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should/dp/1492050903) by Camille Fournier [📘](https://1drv.ms/u/s!AsCshoFzyVm_i3Omlbe5kv9PIkBE?e=hQCh09)  
 
 #### Leadership
 

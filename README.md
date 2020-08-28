@@ -15,14 +15,14 @@ Hello, thanks for reading! A little about me, I have been an engineering manager
 
 If you are going to read one book off of this list, I highly recommend the following:
 
-[The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://amzn.to/2DgqkQM)  
+[The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2EQIynB64qqrkUo?e=aoSlyb)  
 
 ### Best of the List
 
 There are a ton of great books on this list, but if you want to start out reading the top books, I would recommend the following:
 
-[The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://amzn.to/2DgqkQM)  
-[Managing Humans](https://amzn.to/2IoAx1S) by Michael Lopp [📘](https://amzn.to/2IoAx1S)  
+[The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2EQIynB64qqrkUo?e=aoSlyb)  
+[Managing Humans](https://1drv.ms/u/s!AsCshoFzyVm_i2WGEpjXkGARcG1E?e=ga9vTa) by Michael Lopp [📘](https://amzn.to/2IoAx1S)  
 [Managing the Unmanageable](https://amzn.to/2DhLBK9) by Mickey W. Mantle and Ron Lichty [📘](https://amzn.to/2DhLBK9)  
 [The Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) by Julie Zhuo [📘](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) [🎧](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/B07NGSZGFG/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)  
 [An Elegant Puzzle - Systems of Engineering Management](https://www.amazon.com/dp/1732265186) by Will Larson [📘](https://www.amazon.com/dp/1732265186)  
@@ -72,11 +72,11 @@ soft skills, then I would recommend picking out some books in the tech skills se
 [Managing Oneself](https://amzn.to/2XiFtZK) by Peter Drucker [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2bTmQt4POQledC_?e=hDfCUa)  
 [The ONE Thing](https://amzn.to/2Xl0F1g) by Gary Keller and Jay Papasan [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2ce9LIewwP-3d8j?e=1a8sws)  
 [Radical Focus](https://amzn.to/2DhZLee) by Christina Wodtke [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2hoEoiMiiflT5ID?e=dwUVAz)  
-[The Advantage](https://amzn.to/2DbTOiX) by Patrick Lencioni [📘](https://amzn.to/2DbTOiX)  
-[Management 3.0](https://amzn.to/2GuQXnr) by Jurgen Appelo [📘](https://amzn.to/2GuQXnr)  
-[Growing Software](https://amzn.to/2DhtyDD) by Louis Testa [📘](https://amzn.to/2DhtyDD)  
+[The Advantage](https://amzn.to/2DbTOiX) by Patrick Lencioni [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2mzyskOyT9OnOvB?e=P9dHLw)  
+[Management 3.0](https://amzn.to/2GuQXnr) by Jurgen Appelo [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2q9NjtpON4RMC48?e=h6h69v)  
+[Growing Software](https://amzn.to/2DhtyDD) by Louis Testa [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2vjS4Kn3mTuH46R?e=0jFzac)  
 [Principles of Software Engineering Management](https://amzn.to/2GqXj6W) by Tom Glib [📘](https://amzn.to/2GqXj6W)  
-[The Goal](https://amzn.to/2DjQthG) by Eliyahu M. Goldratt and Jeff Cox [📘](https://amzn.to/2DjQthG)  
+[The Goal](https://amzn.to/2DjQthG) by Eliyahu M. Goldratt and Jeff Cox [📘](https://1drv.ms/u/s!AsCshoFzyVm_i22NGNXMpJXxBZV7?e=PjPBxS) [📗](https://1drv.ms/b/s!AsCshoFzyVm_i2xm9LeTjN1nSj2L?e=705tYP)  
 [Managing the Unmanageable](https://amzn.to/2DhLBK9) by Mickey W. Mantle and Ron Lichty [📘](https://amzn.to/2DhLBK9)  
 [Behind Closed Doors](https://amzn.to/2Io85gL) by Johanna Rothman and Esther Derby [📘](https://amzn.to/2Io85gL)  
 [An Elegant Puzzle - Systems of Engineering Management](https://www.amazon.com/dp/1732265186) by Will Larson [📘](https://www.amazon.com/dp/1732265186)   

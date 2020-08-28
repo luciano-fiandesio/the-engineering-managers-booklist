@@ -80,25 +80,25 @@ soft skills, then I would recommend picking out some books in the tech skills se
 [Managing the Unmanageable](https://amzn.to/2DhLBK9) by Mickey W. Mantle and Ron Lichty [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2-uVWLyg-doouXM?e=Mx4J9e) [📗](https://1drv.ms/u/s!AsCshoFzyVm_i3BZQhXCaNB1NOyB?e=ZesoIM) [🚧](https://1drv.ms/u/s!AsCshoFzyVm_i3BZQhXCaNB1NOyB?e=gA3QYT)  
 [Behind Closed Doors](https://amzn.to/2Io85gL) by Johanna Rothman and Esther Derby [📗](https://1drv.ms/b/s!AsCshoFzyVm_i3HHUfxkx22edaH-?e=dVjX74)  
 [An Elegant Puzzle - Systems of Engineering Management](https://www.amazon.com/dp/1732265186) by Will Larson [📘](https://1drv.ms/u/s!AsCshoFzyVm_i3JejC3CbV6mIYTF?e=SC4hHa)   
-[97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should/dp/1492050903) by Camille Fournier [📘](https://1drv.ms/u/s!AsCshoFzyVm_i3Omlbe5kv9PIkBE?e=hQCh09)  
+[97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should/dp/1492050903) by Camille Fournier [📘](https://1drv.ms/u/s!AsCshoFzyVm_i3Omlbe5kv9PIkBE?e=hQCh09s)  
 
 #### Leadership
 
-[The Effective Executive](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459) by Peter Drucker [📘](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459) [🎧](https://www.amazon.com/Effective-Executive-Definitive-Getting-Things/dp/B01N51TCT1)   
-[Leading Snowflakes](http://leadingsnowflakes.com) by Oren Ellenbogen [📘](http://leadingsnowflakes.com)  
-[The Score Takes Care of Itself](https://amzn.to/2XmKj81) by Bill Walsh, Steve Jamison, and Craig Walsh [📘](https://amzn.to/2XmKj81) [🎧](https://amzn.to/2Zl8m9a)  
-[Leadership is an Art](https://amzn.to/2Dk3Jmm) from Max Depree [📘](https://amzn.to/2Dk3Jmm) [🎧](https://amzn.to/2GipeF0)  
-[Developing the Leader Within You](https://amzn.to/2ItqTLE) by John C. Maxwell [📘](https://amzn.to/2ItqTLE) [🎧](https://amzn.to/2XmNtbT)  
+[The Effective Executive](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459) by Peter Drucker [📘](https://1drv.ms/u/s!AsCshoFzyVm_i3VjZc-LC6r34Fhj?e=03AXkt)  
+[Leading Snowflakes](http://leadingsnowflakes.com) by Oren Ellenbogen [🗜](https://1drv.ms/u/s!AsCshoFzyVm_i3YQ--2wGqLF1NXH?e=vl0KFe)  
+[The Score Takes Care of Itself](https://amzn.to/2XmKj81) by Bill Walsh, Steve Jamison, and Craig Walsh [📗](https://1drv.ms/b/s!AsCshoFzyVm_i3erUz2XTHclLAL7?e=WYfkAg)  
+[Leadership is an Art](https://amzn.to/2Dk3Jmm) from Max Depree [📘](https://1drv.ms/u/s!AsCshoFzyVm_i3ib7mC9x1sPFsKq?e=eSwGXE)
+[Developing the Leader Within You](https://amzn.to/2ItqTLE) by John C. Maxwell [📘](https://1drv.ms/u/s!AsCshoFzyVm_i3nJjtmgbh0gxm8_?e=BFP5kO)  
 [Trillion Dollar Coach](https://amzn.to/2W28HPg)
-by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://amzn.to/2W28HPg) [🎧](https://amzn.to/2E4g4eT)  
-[Influencing without Authority](https://www.amazon.com/dp/1119347718) by Allan R. Cohen and David L. Bradford [📘](https://www.amazon.com/dp/1119347718)  
-[Nine Lies About Work](https://www.amazon.com/Nine-Lies-about-Work-Freethinking-ebook/dp/B07C3ZT28C) by Marcus Buckingham, Ashley Goodall [📘](https://www.amazon.com/Nine-Lies-about-Work-Freethinking-ebook/dp/B07C3ZT28C) [🎧](https://www.amazon.com/Nine-Lies-About-Work-Freethinking/dp/B07Q3J5MK3/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)  
-[Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404) by L. David Marquet [📘](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404)  
+by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://1drv.ms/u/s!AsCshoFzyVm_i3pnBXhxu5l5iF1M?e=eyG7ja)  
+[Influencing without Authority](https://www.amazon.com/dp/1119347718) by Allan R. Cohen and David L. Bradford [📘](https://1drv.ms/u/s!AsCshoFzyVm_i3tL7d46GJ7uCbQl?e=mFOf3U)  
+[Nine Lies About Work](https://www.amazon.com/Nine-Lies-about-Work-Freethinking-ebook/dp/B07C3ZT28C) by Marcus Buckingham, Ashley Goodall [📘](https://1drv.ms/u/s!AsCshoFzyVm_i3x5t6nPrNjExmDG?e=eUcNe5)  
+[Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404) by L. David Marquet [📘](https://1drv.ms/u/s!AsCshoFzyVm_i30SefJs-u9dxtta?e=8q1lx6)  
 
 #### Coaching
 
-[Radical Candor](https://amzn.to/2IrQvIM) by Kim Scott [📘](https://amzn.to/2IrQvIM) [🎧](https://amzn.to/2KJ3c3x)  
-[The Coaching Habit](https://amzn.to/2XjkohB) by Michael Bungay Stanier [📘](https://amzn.to/2XjkohB) [🎧](https://amzn.to/2IDjAA9)  
+[Radical Candor](https://amzn.to/2IrQvIM) by Kim Scott [📘](https://1drv.ms/u/s!AsCshoFzyVm_i39LHkYTBnEgnTs9?e=rlXKvq)  
+[The Coaching Habit](https://amzn.to/2XjkohB) by Michael Bungay Stanier [📘](https://1drv.ms/u/s!AsCshoFzyVm_jAAIfuanEgiNLIVg?e=KbokdG)  
 
 #### People
 

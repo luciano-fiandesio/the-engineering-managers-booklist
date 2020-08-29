@@ -107,14 +107,14 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://1drv.ms/u/s!As
 
 #### Culture
 
-[It Doesn't Have to Be Crazy at Work](https://amzn.to/2Ut8zUa) by Jason Fried and David Heinemeier Hansson [📘](https://amzn.to/2Ut8zUa) [🎧](https://amzn.to/2Dm61BL)  
-[The Hard Thing About Hard Things](https://amzn.to/2IsNQ1d) by Ben Horowitz [📘](https://amzn.to/2IsNQ1d) [🎧](https://amzn.to/2GzNLFV)  
-[Good to Great](https://amzn.to/2IIhnDq) by Jim Collins [📘](https://amzn.to/2IIhnDq) [🎧](https://amzn.to/2GzNSRR)  
-[How Google Works](https://amzn.to/2XttuIN) by Eric Schmidt, Jonathan Rosenberg and Alan Eagle [📘](https://amzn.to/2XttuIN) [🎧](https://amzn.to/2Iul3tn)  
-[Rework](https://amzn.to/2IsNZSj) by Jason Fried and David Heinemeier Hansson [📘](https://amzn.to/2IsNZSj) [🎧](https://amzn.to/2XvMVRn)  
-[Slack](https://amzn.to/2XpZFZK) by Tom DeMarco [📘](https://amzn.to/2XpZFZK)  
-[The Five Dysfunctions of a Team](https://amzn.to/2ItqwAG) by Patrick Lencioni [📘](https://amzn.to/2ItqwAG) [🎧](https://amzn.to/2Vg23EG)  
-[Brotopia](https://amzn.to/2Ivc4rB) by Emily Chang [📘](https://amzn.to/2Ivc4rB) [🎧](https://amzn.to/2UreIAl)  
+[It Doesn't Have to Be Crazy at Work](https://amzn.to/2Ut8zUa) by Jason Fried and David Heinemeier Hansson [📘](https://1drv.ms/u/s!AsCshoFzyVm_jAeWDdC-Gtgajmwj?e=ESKTOXs)  
+[The Hard Thing About Hard Things](https://amzn.to/2IsNQ1d) by Ben Horowitz [📘](https://1drv.ms/u/s!AsCshoFzyVm_jAi3-_jVZ6m1C4Mr?e=eSUtny)  
+[Good to Great](https://amzn.to/2IIhnDq) by Jim Collins [📘](https://1drv.ms/u/s!AsCshoFzyVm_jAkk6YtRiAPGp2j8?e=3fsSD9)  
+[How Google Works](https://amzn.to/2XttuIN) by Eric Schmidt, Jonathan Rosenberg and Alan Eagle [📘](https://1drv.ms/u/s!AsCshoFzyVm_jApcD2bgkySZ-3Ox?e=5f25OJ)  
+[Rework](https://amzn.to/2IsNZSj) by Jason Fried and David Heinemeier Hansson [📘](https://1drv.ms/u/s!AsCshoFzyVm_jAuKvBEVECO_-Cxe?e=euYztK)  
+[Slack](https://amzn.to/2XpZFZK) by Tom DeMarco [📘](https://1drv.ms/u/s!AsCshoFzyVm_jAwRZ1bQW6aITL7M?e=fRZC2s)  
+[The Five Dysfunctions of a Team](https://amzn.to/2ItqwAG) by Patrick Lencioni [📘](https://1drv.ms/u/s!AsCshoFzyVm_jA3TEDjvLv-Y1d95?e=uw8Q3r)  
+[Brotopia](https://amzn.to/2Ivc4rB) by Emily Chang [📘](https://1drv.ms/u/s!AsCshoFzyVm_jA4bjSXE7rHh8GD-?e=SboeFV)  
 
 #### Change Management
 

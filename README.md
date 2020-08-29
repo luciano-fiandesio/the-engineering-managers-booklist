@@ -102,8 +102,8 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://1drv.ms/u/s!As
 
 #### People
 
-[Peopleware](https://amzn.to/2KPzrhQ) by Tom DeMarco and Tim Lister [📘](https://amzn.to/2KPzrhQ)  
-[How to Win Friends and Influence People](https://amzn.to/2GlPqP7) by Dale Carnegie [📘](https://amzn.to/2GlPqP7) [🎧](https://amzn.to/2Dxo6Np)
+[Peopleware](https://amzn.to/2KPzrhQ) by Tom DeMarco and Tim Lister [📘](https://1drv.ms/u/s!AsCshoFzyVm_jATS1LZ8NlAtU26Z?e=ejAUde)  
+[How to Win Friends and Influence People](https://amzn.to/2GlPqP7) by Dale Carnegie [📘](https://1drv.ms/u/s!AsCshoFzyVm_jAVOEzU5oQ76f3Mw?e=J9VUaW)
 
 #### Culture
 
@@ -140,7 +140,7 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://1drv.ms/u/s!As
 
 #### Onboarding
 
-[First 90 Days](https://amzn.to/2Jt7N7P) by Harvard Business Review Press [📘](https://amzn.to/2Jt7N7P) [🎧](https://amzn.to/2Vo4plY)  
+[First 90 Days](https://amzn.to/2Jt7N7P) by Harvard Business Review Press [📘](https://1drv.ms/u/s!AsCshoFzyVm_jAJ5DMqeoMlFRxMQ?e=KUjdIG)  
 
 ### Part II: Tech Skills
 

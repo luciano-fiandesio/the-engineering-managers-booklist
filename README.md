@@ -24,8 +24,8 @@ There are a ton of great books on this list, but if you want to start out readin
 [The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2EQIynB64qqrkUo?e=aoSlyb)  
 [Managing Humans](https://1drv.ms/u/s!AsCshoFzyVm_i2WGEpjXkGARcG1E?e=ga9vTa) by Michael Lopp [📘](https://amzn.to/2IoAx1S)  
 [Managing the Unmanageable](https://amzn.to/2DhLBK9) by Mickey W. Mantle and Ron Lichty [📘](https://amzn.to/2DhLBK9)  
-[The Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) by Julie Zhuo [📘](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) [🎧](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/B07NGSZGFG/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)  
-[An Elegant Puzzle - Systems of Engineering Management](https://www.amazon.com/dp/1732265186) by Will Larson [📘](https://www.amazon.com/dp/1732265186)  
+[The Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) by Julie Zhuo [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2KtmDEswV261MJx?e=v750hB)  
+[An Elegant Puzzle - Systems of Engineering Management](https://www.amazon.com/dp/1732265186) by Will Larson [📘](https://1drv.ms/u/s!AsCshoFzyVm_i3JejC3CbV6mIYTF?e=SC4hHa)  
 
 ### Tips on Book Selection
 

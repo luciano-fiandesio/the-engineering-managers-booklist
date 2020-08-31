@@ -128,6 +128,19 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://1drv.ms/u/s!As
 [Essential Scrum](https://amzn.to/2IxNqXu) by Kenneth S. Rubin [📘](https://1drv.ms/u/s!AsCshoFzyVm_jByZQMNcbDF9BTKI?e=H5GaWm) [📗](https://1drv.ms/b/s!AsCshoFzyVm_jBqG-qSx0zyhyDJr?e=jVH45C)  
 [Agile Retrospectives](https://amzn.to/2XwMrdA) by Esther Derby, Diana Larsen, and Ken Schwaber [📗](https://1drv.ms/b/s!AsCshoFzyVm_jBuUb9lYnHJv4RF_?e=3Db5nZs)  
 
+#### Product Discovery
+
+[Inspired](https://amzn.to/3cxo7jy) by Marty Cagan [📘]
+[Build Better Products](https://amzn.to/2WR0gox) by Laura Klein [📘]
+[Change By Design](https://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/0061766089) by Tim Brown [📘] 
+[Sprint](https://amzn.to/3bqNqCB) by Jake Knapp, John Zeratsky & Braden Kowitz [📘]
+[The Lean Startup](https://amzn.to/363x7L6) by Eric Ries [📘]
+[What Customers Want](https://amzn.to/2LmcksC) by Anthony Ulwick
+[The Four Steps to the Epiphany](https://amzn.to/3dBfwwq) by Steve Blank [📘]
+[The Lean Product Playbook](https://amzn.to/2yLCOkG) by Dan Olsen [📘]
+[Escaping the Build Trap](https://amzn.to/3fNXXuU) by Melissa Perri [📘]
+[Intercom on Jobs-To-Be-Done](https://www.intercom.com/resources/books/intercom-jobs-to-be-done) [📘]
+
 #### Communication
 
 [Nonviolent Communication](https://amzn.to/2Znpzio) by Marshall B. Rosenberg PhD [📘](https://amzn.to/2Znpzio) [🎧](https://amzn.to/2VfzIOZ)  

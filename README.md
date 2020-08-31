@@ -126,7 +126,6 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://1drv.ms/u/s!As
 
 [Scrum](https://amzn.to/2VgfYdT) by Jeff Sutherland and JJ Sutherland [📘](https://1drv.ms/u/s!AsCshoFzyVm_jBg3TKX--OTmwVua?e=0ftxAw)  
 [Essential Scrum](https://amzn.to/2IxNqXu) by Kenneth S. Rubin [📘](https://1drv.ms/u/s!AsCshoFzyVm_jByZQMNcbDF9BTKI?e=H5GaWm) [📗](https://1drv.ms/b/s!AsCshoFzyVm_jBqG-qSx0zyhyDJr?e=jVH45C)
-
 [Agile Retrospectives](https://amzn.to/2XwMrdA) by Esther Derby, Diana Larsen, and Ken Schwaber [📗](https://1drv.ms/b/s!AsCshoFzyVm_jBuUb9lYnHJv4RF_?e=3Db5nZs)  
 
 #### Communication

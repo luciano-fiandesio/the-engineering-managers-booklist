@@ -130,16 +130,16 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://1drv.ms/u/s!As
 
 #### Product Discovery
 
-[Inspired](https://amzn.to/3cxo7jy) by Marty Cagan [📘]  
-[Build Better Products](https://amzn.to/2WR0gox) by Laura Klein [📘]  
-[Change By Design](https://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/0061766089) by Tim Brown [📘]  
-[Sprint](https://amzn.to/3bqNqCB) by Jake Knapp, John Zeratsky & Braden Kowitz [📘]  
-[The Lean Startup](https://amzn.to/363x7L6) by Eric Ries [📘]  
-[What Customers Want](https://amzn.to/2LmcksC) by Anthony Ulwick  [📘]  
-[The Four Steps to the Epiphany](https://amzn.to/3dBfwwq) by Steve Blank [📘]  
-[The Lean Product Playbook](https://amzn.to/2yLCOkG) by Dan Olsen [📘]  
-[Escaping the Build Trap](https://amzn.to/3fNXXuU) by Melissa Perri [📘]  
-[Intercom on Jobs-To-Be-Done](https://www.intercom.com/resources/books/intercom-jobs-to-be-done) [📘]  
+[Inspired](https://amzn.to/3cxo7jy) by Marty Cagan [📘](https://1drv.ms/u/s!AsCshoFzyVm_jCH8FxpSf7cufGzM?e=qQ4lXm)  
+[Build Better Products](https://amzn.to/2WR0gox) by Laura Klein [📘](https://1drv.ms/u/s!AsCshoFzyVm_jB9mhi_GUGea359m?e=fpaBby)  
+[Change By Design](https://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/0061766089) by Tim Brown [📘](https://1drv.ms/u/s!AsCshoFzyVm_jCD2yJxHmCbgo6Je?e=EwFB4g)  
+[Sprint](https://amzn.to/3bqNqCB) by Jake Knapp, John Zeratsky & Braden Kowitz [📘](https://1drv.ms/u/s!AsCshoFzyVm_jCJXk3OffPw11IUW?e=SuLISx)  
+[The Lean Startup](https://amzn.to/363x7L6) by Eric Ries [📘](https://1drv.ms/u/s!AsCshoFzyVm_jCaHvjz2jhKZk3-d?e=I3N0BF)  
+[What Customers Want](https://amzn.to/2LmcksC) by Anthony Ulwick  [📘](https://1drv.ms/u/s!AsCshoFzyVm_jCSbRAd2X0mHKp6l?e=b4VZGb)  
+[The Four Steps to the Epiphany](https://amzn.to/3dBfwwq) by Steve Blank [📘](https://1drv.ms/u/s!AsCshoFzyVm_jCUPl0fvzGEx-KTS?e=aXyGiE)  
+[The Lean Product Playbook](https://amzn.to/2yLCOkG) by Dan Olsen [📘](https://1drv.ms/u/s!AsCshoFzyVm_jCPCXsGv961j0BBI?e=u3jyKO)  
+[Escaping the Build Trap](https://amzn.to/3fNXXuU) by Melissa Perri [📘](https://1drv.ms/u/s!AsCshoFzyVm_jB6z3sILFxzv6tII?e=wrpSVn)  
+[Intercom on Jobs-To-Be-Done](https://www.intercom.com/resources/books/intercom-jobs-to-be-done)  
 
 #### Communication
 

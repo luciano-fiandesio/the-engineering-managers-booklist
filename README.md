@@ -118,15 +118,14 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://1drv.ms/u/s!As
 
 #### Change Management
 
-[Change or Die](https://amzn.to/2IJ251q) by Alan Deutschman [📘](https://amzn.to/2IJ251q) [🎧](https://amzn.to/2IxYcx1)  
-[Switch](https://amzn.to/2VcMKN3) by Dan Heath, Chip Heath, Charles Kahlenberg [📘](https://amzn.to/2VcMKN3) [🎧](https://amzn.to/2Iw6iGi)  
-[HBR's 10 Must Reads on Change Management](https://amzn.to/2KSpvnL) by John P. Kotter, W. Chan Kim, Renée A. Mauborgne [📘](https://amzn.to/2KSpvnL) [🎧](https://amzn.to/2Gw9AHi)  
+[Change or Die](https://amzn.to/2IJ251q) by Alan Deutschman [📗](https://1drv.ms/b/s!AsCshoFzyVm_jBW3xfMGA9K5YzJ1?e=GxRYcH)  
+[Switch](https://amzn.to/2VcMKN3) by Dan Heath, Chip Heath, Charles Kahlenberg [📘](https://1drv.ms/u/s!AsCshoFzyVm_jBT3KztPjlBzYDGt?e=naWNYt)  
+[HBR's 10 Must Reads on Change Management](https://amzn.to/2KSpvnL) by John P. Kotter, W. Chan Kim, Renée A. Mauborgne [📘](https://1drv.ms/u/s!AsCshoFzyVm_jBZIZiQ7Vm55o8H_?e=c7daoG)  
 
 #### Agile Methodologies
 
-[Scrum](https://amzn.to/2VgfYdT) by Jeff Sutherland and JJ Sutherland [📘](https://amzn.to/2VgfYdT) [🎧](https://amzn.to/2ZruGhC)  
-[Essential Scrum](https://amzn.to/2IxNqXu) by Kenneth S. Rubin [📘](https://amzn.to/2IxNqXu)  
-[Agile Retrospectives](https://amzn.to/2XwMrdA) by Esther Derby, Diana Larsen, and Ken Schwaber [📘](https://amzn.to/2XwMrdA)  
+[Scrum](https://amzn.to/2VgfYdT) by Jeff Sutherland and JJ Sutherland [📘](https://1drv.ms/u/s!AsCshoFzyVm_jBg3TKX--OTmwVua?e=0ftxAw)  
+[Essential Scrum](https://amzn.to/2IxNqXu) by Kenneth S. Rubin [📘](https://1drv.ms/u/s!AsCshoFzyVm_jByZQMNcbDF9BTKI?e=H5GaWm) [📗](https://1drv.ms/b/s!AsCshoFzyVm_jBqG-qSx0zyhyDJr?e=jVH45C)[Agile Retrospectives](https://amzn.to/2XwMrdA) by Esther Derby, Diana Larsen, and Ken Schwaber [📗](https://1drv.ms/b/s!AsCshoFzyVm_jBuUb9lYnHJv4RF_?e=3Db5nZs)  
 
 #### Communication
 

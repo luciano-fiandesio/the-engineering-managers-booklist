@@ -143,9 +143,9 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://1drv.ms/u/s!As
 
 #### Communication
 
-[Nonviolent Communication](https://amzn.to/2Znpzio) by Marshall B. Rosenberg PhD [📘](https://amzn.to/2Znpzio) [🎧](https://amzn.to/2VfzIOZ)  
-[Presence](https://amzn.to/2KTRp2s) by Amy Cutty [📘](https://amzn.to/2KTRp2s) [🎧](https://amzn.to/2Vl8Z3q)  
-[Humble Inquiry](https://www.amazon.com/Humble-Inquiry-Gentle-Instead-Telling/dp/1609949811) by Edgar H. Schein [📘](https://www.amazon.com/Humble-Inquiry-Gentle-Instead-Telling/dp/1609949811) [🎧](https://www.amazon.com/Humble-Inquiry-Gentle-Instead-Telling/dp/B00M1Z30A4/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)  
+[Nonviolent Communication](https://amzn.to/2Znpzio) by Marshall B. Rosenberg PhD [📘](https://1drv.ms/u/s!AsCshoFzyVm_jChi4Aj6b4rKkyWB?e=VUkYdO)  
+[Presence](https://amzn.to/2KTRp2s) by Amy Cutty [📘](https://1drv.ms/u/s!AsCshoFzyVm_jCqA90lm_r0F6UNg?e=taGkya)  
+[Humble Inquiry](https://www.amazon.com/Humble-Inquiry-Gentle-Instead-Telling/dp/1609949811) by Edgar H. Schein [📘](https://1drv.ms/u/s!AsCshoFzyVm_jClNtm88rh3U19TB?e=nri6wH)  
 
 #### Public Speaking
 

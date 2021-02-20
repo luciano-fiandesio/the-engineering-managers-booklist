@@ -64,6 +64,7 @@ soft skills, then I would recommend picking out some books in the tech skills se
 #### Management
 
 [Building Great Software Engineering Teams](https://amzn.to/2IDypCz) by Joshua Tyler [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2CF6LGADCU0JBXy?e=1q3e2s)  
+[Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Needs](https://www.amazon.com/Become-Effective-Software-Engineering-Manager/dp/1680507249) by Dr. James Stanier [📘](https://1drv.ms/b/s!AsCshoFzyVm_jC5FCJqkS2iNtf4C?e=ImltRD)  
 [The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2EQIynB64qqrkUo?e=aoSlyb)  
 [The Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) by Julie Zhuo [📘](https://1drv.ms/u/s!AsCshoFzyVm_i2KtmDEswV261MJx?e=v750hB)  
 [Death by Meeting](https://amzn.to/2XgIWaX) by Patrick M. Lencioni [📘](https://1drv.ms/b/s!AsCshoFzyVm_i2MkT9ukNl8XKCBF?e=n1wNpL)  
@@ -87,13 +88,14 @@ soft skills, then I would recommend picking out some books in the tech skills se
 [The Effective Executive](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459) by Peter Drucker [📘](https://1drv.ms/u/s!AsCshoFzyVm_i3VjZc-LC6r34Fhj?e=03AXkt)  
 [Leading Snowflakes](http://leadingsnowflakes.com) by Oren Ellenbogen [🗜](https://1drv.ms/u/s!AsCshoFzyVm_i3YQ--2wGqLF1NXH?e=vl0KFe)  
 [The Score Takes Care of Itself](https://amzn.to/2XmKj81) by Bill Walsh, Steve Jamison, and Craig Walsh [📗](https://1drv.ms/b/s!AsCshoFzyVm_i3erUz2XTHclLAL7?e=WYfkAg)  
-[Leadership is an Art](https://amzn.to/2Dk3Jmm) from Max Depree [📘](https://1drv.ms/u/s!AsCshoFzyVm_i3ib7mC9x1sPFsKq?e=eSwGXE)
+[Leadership is an Art](https://amzn.to/2Dk3Jmm) from Max Depree [📘](https://1drv.ms/u/s!AsCshoFzyVm_i3ib7mC9x1sPFsKq?e=eSwGXE)  
 [Developing the Leader Within You](https://amzn.to/2ItqTLE) by John C. Maxwell [📘](https://1drv.ms/u/s!AsCshoFzyVm_i3nJjtmgbh0gxm8_?e=BFP5kO)  
 [Trillion Dollar Coach](https://amzn.to/2W28HPg)
 by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://1drv.ms/u/s!AsCshoFzyVm_i3pnBXhxu5l5iF1M?e=eyG7ja)  
 [Influencing without Authority](https://www.amazon.com/dp/1119347718) by Allan R. Cohen and David L. Bradford [📘](https://1drv.ms/u/s!AsCshoFzyVm_i3tL7d46GJ7uCbQl?e=mFOf3U)  
 [Nine Lies About Work](https://www.amazon.com/Nine-Lies-about-Work-Freethinking-ebook/dp/B07C3ZT28C) by Marcus Buckingham, Ashley Goodall [📘](https://1drv.ms/u/s!AsCshoFzyVm_i3x5t6nPrNjExmDG?e=eUcNe5)  
 [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404) by L. David Marquet [📘](https://1drv.ms/u/s!AsCshoFzyVm_i30SefJs-u9dxtta?e=8q1lx6)  
+[No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860) by Reed Hastings, Erin Meyer [📘](https://1drv.ms/u/s!AsCshoFzyVm_jDNazpkYNV77EMRg?e=Z1eJbn)  
 
 #### Coaching
 
@@ -163,7 +165,7 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://1drv.ms/u/s!As
 [The Pragmatic Programmer](https://amzn.to/2XUOQPq) by Andrew Hunt and David Thomas [📘](https://amzn.to/2XUOQPq)  
 [The Effective Engineer](https://amzn.to/2VCLEdD) by Edmond Lau [📘](https://amzn.to/2VCLEdD)  
 [Rapid Development](https://amzn.to/2WjgwNE) by Steve McConnell [📘](https://amzn.to/2WjgwNE)  
-[Software Estimation](https://amzn.to/2Y4tv6p) by Steve McConnell [📘](https://amzn.to/2Y4tv6p)  
+[Software Estimation](https://amzn.to/2Y4tv6p) by Steve McConnell [📘](https://1drv.ms/b/s!AsCshoFzyVm_jDFDUlRNhAgzZ1pY?e=NjQGnf)  
 [Software Project Survival Guide](https://amzn.to/2VIk2Uu) by Steve McConnell [📘](https://amzn.to/2VIk2Uu)  
 [Code Complete](https://amzn.to/2VHBE2M) by Steve McConnell [📘](https://amzn.to/2VHBE2M)  
 [Domain-Driven Design](https://amzn.to/2IJrQNo) by Eric Evans [📘](https://amzn.to/2IJrQNo)  
